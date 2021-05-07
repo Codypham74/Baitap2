@@ -1,0 +1,77 @@
+<Html>
+<head>
+bài tập bảng
+</Head>
+<body>
+<table table border="1" width="500px" height="400px" align="center">
+        <tr>
+            <td colspan="3" style="background-color:greenyellow;">Câu Lạc Bộ</td>
+            <td colspan="5" style="background-color:greenyellow;">Thành tích</td>
+            <td colspan="2" style="background-color:greenyellow;">HS/Điểm</td>
+        </tr>
+        <tr style="background-color:khaki;">
+            <td>TT</td>
+            <td>CLB</td>
+            <td>ST</td>
+            <td>T</td>
+            <td>H</td>
+            <td>B</td>
+            <td>Tg</td>
+            <td>Th</td>
+            <td>HS</td>
+            <td>Đ</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Liverpool</td>
+            <td>38</td>
+            <td>32</td>
+            <td>3</td>
+            <td>3</td>
+            <td>85</td>
+            <td>33</td>
+            <td>+52</td>
+            <td>99</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Manchester City</td>
+            <td>38</td>
+            <td>26</td>
+            <td>3</td>
+            <td>9</td>
+            <td>102</td>
+            <td>35</td>
+            <td>+67</td>
+            <td>81</td>
+        </tr>
+        </table>
+
+        <table border="1">
+        <tr style="color: green;">
+            <th rowspan="2">Họ và tên</th>
+            <th rowspan="2">Số điện thoại</th>
+            <th rowspan="2">Email</th>
+            <th colspan="2">Giới tính</th>
+        </tr>
+        <tr>
+            <td>Nam</td>
+            <td>Nữ</td>
+        </tr>
+        <tr>
+            <td>Phạm Quang Tân</td>
+            <td>0123456789</td>
+            <td>tantan741988@gmail.com</td>
+            <td></td>
+            <td align="center">V</td>
+        </tr>
+        <tr>
+            <td>Phạm Lan Phương</td>
+            <td>093437483741</td>
+            <td>tam@gmail.com</td>
+            <td align="center">x</td>
+            <td></td>
+        </tr>
+    </table>
+</body>
+</html>
