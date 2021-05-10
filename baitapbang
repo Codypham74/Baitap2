@@ -1,7 +1,9 @@
-<Html>
+<html lang="en">
 <head>
-bài tập bảng
-</Head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Bai tap bang</title>
+</head>
 <body>
 <table table border="1" width="500px" height="400px" align="center">
         <tr>
